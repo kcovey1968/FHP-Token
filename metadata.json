@@ -1,0 +1,8 @@
+{
+  "name": "FHP Token",
+  "symbol": "FHP",
+  "description": "FHP is a Solana-based meme coin and DeFi project inspired by maritime culture.",
+  "image": "https://fishports.com/fishports-logo.png",
+  "decimals": 6,
+  "mint": "5vN1TeCN3hyf16hrpLkeAcx2JyACodydWWbK4AzAmoon"
+}
